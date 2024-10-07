@@ -67,4 +67,7 @@ body {
   button:hover {
     background-color: #ff4500;
   }
-  
+
+    footer{
+        background-color:white;
+    }
