@@ -67,7 +67,8 @@ body {
   button:hover {
     background-color: #ff4500;
   }
-
-    footer{
-        background-color:white;
-    }
+  
+  footer{
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 2rem;
+  }
